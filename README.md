@@ -1,6 +1,6 @@
 ## 🎯 Original Contributions & Technical Innovations
 
-While this project builds upon concepts from the "Generative AI with AI Agents MCP" course, it includes significant enhancements and original problem-solving that extend far beyond the course material.
+While this project builds upon concepts from the **["Generative AI with AI Agents MCP for Developers"](https://www.udemy.com/course/generative-ai-with-ai-agents-mcp-for-developers/)** course by **DS with Bappy**, it includes significant enhancements and original problem-solving that extend far beyond the course material.
 
 ### 🚀 Key Enhancements I Added
 
@@ -71,7 +71,7 @@ for i, element in enumerate(raw_pdf_elements):
 ### 🎓 Development Process
 
 #### **Phase 1: Course Foundation** ✅
-- Learned basic multimodal RAG concepts
+- Learned basic multimodal RAG concepts from **[DS with Bappy's course](https://www.udemy.com/course/generative-ai-with-ai-agents-mcp-for-developers/)**
 - Implemented initial PDF processing pipeline
 - Set up vector database integration
 
@@ -139,4 +139,6 @@ TECHNICAL EXPLANATION: [Detailed technical context]
 
 ---
 
-**This implementation represents 40+ hours of additional development beyond the course material, solving real-world challenges and creating educational value for the AI community.**
+**This implementation represents 40+ hours of additional development beyond the [original course material](https://www.udemy.com/course/generative-ai-with-ai-agents-mcp-for-developers/), solving real-world challenges and creating educational value for the AI community.**
+
+**🎓 Course Credit:** Special thanks to **DS with Bappy** for the excellent foundational course that inspired this enhanced implementation!
